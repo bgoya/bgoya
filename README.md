@@ -1,3 +1,3 @@
-## Bautista Goya
+# Bautista Goya
 
-# Digital Technology Student
+## Digital Technology Student at Torcuato Di Tella University
