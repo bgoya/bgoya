@@ -1,3 +1,3 @@
 ![Header](assets/header.jpg)
 
-Digital Technology Student at Torcuato Di Tella University
+Digital Technologies Student at Torcuato Di Tella University
