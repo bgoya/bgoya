@@ -1,1 +1,1 @@
-![Banner GIF](assets/ascii-plasma-ice-dusk.gif)
+![Banner GIF](assets/banner.gif)
