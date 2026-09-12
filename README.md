@@ -1,4 +1,4 @@
-<img src="assets/ascii-plasma-ice-dusk.gif" alt="Banner GIF" style="width: 100%">
+![Banner GIF](assets/ascii-plasma-ice-dusk.gif)
 
 ---
 
